@@ -1,4 +1,8 @@
-<u>Perdican</u>
+---
+updated_at: 2025-03-30T23:28:47.265+02:00
+edited_seconds: 20
+---
+#### <u>Perdican</u>
 - Didascalie "à haute voix" donne le contexte du dialogue
 - lyrisme amoureux
 	- <font color="#e36c09">anaphore</font> "toi seule"
@@ -13,10 +17,10 @@
 	- "Je" et "Tu" deviennent "NOTRE" 
 	- geste symbolique de la chaine autour du cou
 
-<u>Rosette</u>
+#### <u>Rosette</u>
 -> question fait sourire
 - naïveté, simplicité de R
 - matière de la chaine a + de valeur que la déclaration de P
 
-<u>Bilan : </u>
+#### <u>Bilan : </u>
 Apres la chaine, la bague : la chaine permettait de créer un lien avec Rosette, la bague détruira celui avec Camille 

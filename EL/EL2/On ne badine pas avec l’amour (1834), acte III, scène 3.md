@@ -1,5 +1,9 @@
+---
+updated_at: 2025-03-30T23:24:50.414+02:00
+edited_seconds: 100
+---
 PERDICAN, *à haute voix, de manière que Camille l’entende.*
-Je t’aime, Rosette ; <font color="#e36c09">toi seule</font> <span style="background:#fdbfff">au monde</span> tu n’as rien oublié de <u>nos beaux jours passés</u> ; <font color="#e36c09">toi seule</font> tu te souviens de <u>la vie qui n’est plus</u> ; <span style="background:#ff4d4f">prends</span> ta part de ma vie nouvelle ; <span style="background:#ff4d4f">donne</span>-moi ton <span style="background:#b1ffff">cœur</span>, <span style="background:#b1ffff">chère</span> enfant ; voilà le <span style="background:#40a9ff">gage</span> de notre <span style="background:#b1ffff">amour</span>. Il lui pose sa chaîne sur le cou. 
+Je t’aime, Rosette ; <font color="#e36c09">toi seule</font> <span style="background:#fdbfff">au monde</span> tu n’as rien oublié de <u>nos beaux jours passés</u> ; <font color="#e36c09">toi seule</font> tu te souviens de <u>la vie qui n’est plus</u> ; <span style="background:#ff4d4f">prends</span> ta part de ma vie nouvelle ; <span style="background:#ff4d4f">donne</span>-moi ton <span style="background:#b1ffff">cœur</span>, <span style="background:#b1ffff">chère</span> enfant ; voilà le <span style="background:#40a9ff">gage</span> de notre <span style="background:#b1ffff">amour</span>. *Il lui pose sa chaîne sur le cou.* 
 
 ROSETTE 
 Vous me donnez votre chaîne d’or ? 
@@ -7,7 +11,7 @@ Vous me donnez votre chaîne d’or ?
 <hr>
 
 PERDICAN
-Regarde à présent cette bague. Lève-toi, et approchons-nous de cette fontaine. Nous vois-tu tous les deux, dans la source, appuyés l’un sur l’autre ? Vois-tu tes beaux yeux près des miens, ta main dans la mienne ? Regarde tout cela s’effacer. Il jette sa bague dans l’eau. Regarde comme notre image a disparu ; la voilà qui revient peu à peu ; l’eau qui s’était troublée reprend son équilibre ; elle tremble encore ; de grands cercles noirs courent à sa surface ; patience, nous reparaissons ; déjà je distingue de nouveau les bras enlacés dans les miens ; encore une minute, et il n’y aura plus une ride sur ton joli visage ; regarde ! c’était une bague que m’avait donnée Camille. 
+Regarde à présent cette bague. <span style="background:#fdbfff">Lève-toi</span>, et <span style="background:#fdbfff">approchons-nous</span> de cette fontaine. Nous vois-tu tous les deux, dans la source, <span style="background:#b1ffff">appuyés l’un sur l’autre</span> ? Vois-tu <span style="background:#b1ffff">tes beaux yeux près des miens</span>, <span style="background:#b1ffff">ta main dans la mienne</span> ? Regarde tout cela s’<span style="background:#d3f8b6">effacer</span>. *Il jette sa bague dans l’eau*. Regarde comme notre image a <span style="background:#d3f8b6">disparu</span> ; la voilà qui <span style="background:#fff88f"><font color="#e36c09">re</font>vient</span> peu à peu ; l’eau qui s’était troublée <span style="background:#fff88f"><font color="#e36c09">re</font>prend</span> son équilibre ; elle tremble encore ; de grands cercles noirs courent à sa surface ; patience, nous <span style="background:#fff88f"><font color="#e36c09">re</font>paraissons</span> ; déjà je distingue <span style="background:#fff88f">de nouveau</span> <span style="background:#b1ffff">les bras enlacés dans les miens</span> ; encore une minute, et il n’y aura plus une ride sur ton joli visage ; regarde ! c’était une bague que m’avait donnée Camille. 
 
 CAMILLE, *à part.* 
 Il a jeté ma bague dans l’eau. 
