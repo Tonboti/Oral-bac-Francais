@@ -7,7 +7,7 @@
 ### Mouvements du texte 
 - **Lignes 1-9** : Perdican se comporte avec Rosette comme il le ferait avec Camille, ce qui met mal a l'aise Rosette
 - **Lignes 10-15** : Perdican qui vient d'apprendre que Camille ne voulait pas l'épouser parle de **mariage**, ce qui re-met **Rosette mal a l'aise** 
-- **Lignes 16-fin** : Perdican perd le contrôle. Il embrasse Rosette sur les lèvres, pleure puis s'excuse. ==> Il a pris Rosette pour Camille mais a la fin s'est rendu compte que non 
+- **Lignes 16-fin** : Perdican perd le contrôle. Il embrasse Rosette sur les lèvres, pleure puis s'excuse. => Il a pris Rosette pour Camille mais a la fin s'est rendu compte que non 
 
 ### Problématique
 **Comment Musset parvient il ici a faire de Rosette un double de Camille**?

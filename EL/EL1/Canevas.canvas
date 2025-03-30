@@ -1,11 +1,15 @@
 {
 	"nodes":[
 		{"id":"a4ec90b666ca30e1","type":"file","file":"EL/EL1/On ne badine pas avec l’amour (1834), acte II, scène 3.md","x":-1260,"y":-500,"width":840,"height":1160},
-		{"id":"eedee0ef5e3655fb","type":"file","file":"EL/EL1/1e Mouvement.md","x":-80,"y":-1800,"width":880,"height":1340},
-		{"id":"d40c8e7125df58f6","type":"file","file":"EL/EL1/Contexte.md","x":-2560,"y":-1040,"width":830,"height":1080}
+		{"id":"d40c8e7125df58f6","type":"file","file":"EL/EL1/Contexte.md","x":-2240,"y":-460,"width":830,"height":1080},
+		{"id":"521eb539729bc5ec","type":"file","file":"EL/EL1/2e Mouvement.md","x":140,"y":-500,"width":620,"height":940},
+		{"id":"7b3d2eb2e6a56903","x":-240,"y":480,"width":600,"height":920,"type":"file","file":"EL/EL1/3e mouvement.md"},
+		{"id":"eedee0ef5e3655fb","type":"file","file":"EL/EL1/1e Mouvement.md","x":-520,"y":-1920,"width":880,"height":1340}
 	],
 	"edges":[
-		{"id":"9bbe361fbe537d73","fromNode":"a4ec90b666ca30e1","fromSide":"right","toNode":"eedee0ef5e3655fb","toSide":"left"},
-		{"id":"70f60e578dde6e74","fromNode":"d40c8e7125df58f6","fromSide":"right","toNode":"a4ec90b666ca30e1","toSide":"left"}
+		{"id":"70f60e578dde6e74","fromNode":"d40c8e7125df58f6","fromSide":"right","toNode":"a4ec90b666ca30e1","toSide":"left"},
+		{"id":"c8ca7cdc48a7ef0c","fromNode":"a4ec90b666ca30e1","fromSide":"top","toNode":"eedee0ef5e3655fb","toSide":"left"},
+		{"id":"d126662f08ab88c9","fromNode":"a4ec90b666ca30e1","fromSide":"right","toNode":"521eb539729bc5ec","toSide":"left"},
+		{"id":"a6670b9d351a4df4","fromNode":"a4ec90b666ca30e1","fromSide":"right","toNode":"7b3d2eb2e6a56903","toSide":"left"}
 	]
 }

@@ -15,20 +15,26 @@ ROSETTE
 PERDICAN 
 Que tu es jolie, mon enfant ! 
 
+<hr>
+
 ROSETTE 
-Il ne faut pas non plus vous fâcher pour cela. Comme vous paraissez triste ce matin ! Votre mariage est donc manqué ? 
+Il ne faut pas non plus vous fâcher pour cela. Comme vous paraissez <u>triste</u> ce matin ! <u>Votre mariage est donc manqué</u> ? 
 
 PERDICAN 
-Les paysans de ton village se souviennent de m’avoir aimé ; les chiens de la basse-cour et les arbres du bois s’en souviennent aussi ; mais Camille ne s’en souvient pas. Et toi, Rosette, à quand le mariage ? 
+Les paysans de ton village se souviennent de m’avoir aimé ; <font color="#d99694">les chiens de la basse-cour et les arbres du bois s’en souviennent aussi ; mais Camille ne s’en souvient pas</font>. <u>Et toi, Rosette,</u> à quand le mariage ? 
 
 ROSETTE 
-Ne parlons pas de cela, voulez-vous ? Parlons du temps qu’il fait, de ces fleurs que voilà, de vos chevaux et de mes bonnets. 
+Ne parlons pas de cela, voulez-vous ? Parlons du temps qu’il fait, de ces fleurs que voilà, de <u>vos chevaux et de mes bonnets</u>. 
+
+<hr>
 
 PERDICAN 
-De tout ce qui te plaira, de tout ce qui peut passer sur tes lèvres sans leur ôter ce sourire céleste que je respecte plus que ma vie. Il l’embrasse. 
+<font color="#e36c09">De tout</font> ce qui te plaira, <font color="#e36c09">de tout</font> ce qui peut passer sur tes lèvres sans leur ôter ce <span style="background:#affad1">sourire céleste</span> que <span style="background:#affad1">je respecte plus que ma vie</span>. 
+
+*Il l’embrasse.* 
 
 ROSETTE 
-Vous respectez mon sourire, mais vous ne respectez guère mes lèvres, à ce qu’il me semble. Regardez donc ; voilà une goutte de pluie qui me tombe sur la main, et cependant le ciel est pur. 
+Vous respectez <span style="background:#fdbfff">mon sourire</span>, mais vous ne respectez guère <span style="background:#fdbfff">mes lèvres</span>, à ce qu’il me semble. Regardez donc ; <u>voilà une goutte de pluie qui me tombe sur la main, et cependant le ciel est pur. </u>
 
 PERDICAN 
 Pardonne-moi. 
