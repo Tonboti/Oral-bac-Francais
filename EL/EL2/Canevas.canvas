@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b693b45b1112aeff","type":"file","file":"EL/EL2/On ne badine pas avec l’amour (1834), acte III, scène 3.md","x":-120,"y":-55,"width":685,"height":1015},
+		{"id":"696cc21f8a5f7aba","type":"file","file":"EL/EL2/Contexte.md","x":-1040,"y":-135,"width":720,"height":1175},
+		{"id":"4a06e558d664b565","x":760,"y":-720,"width":640,"height":720,"type":"file","file":"EL/EL2/1e Mouvement.md"}
+	],
+	"edges":[
+		{"id":"09846d77f7e1454b","fromNode":"696cc21f8a5f7aba","fromSide":"right","toNode":"b693b45b1112aeff","toSide":"left"},
+		{"id":"2c9f085f4e909a3a","fromNode":"b693b45b1112aeff","fromSide":"right","toNode":"4a06e558d664b565","toSide":"left"}
+	]
+}
