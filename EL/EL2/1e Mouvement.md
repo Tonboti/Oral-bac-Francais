@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-03-30T23:28:47.265+02:00
-edited_seconds: 20
+updated_at: 2025-03-31T18:09:38.971+02:00
+edited_seconds: 30
 ---
 #### <u>Perdican</u>
 - Didascalie "à haute voix" donne le contexte du dialogue

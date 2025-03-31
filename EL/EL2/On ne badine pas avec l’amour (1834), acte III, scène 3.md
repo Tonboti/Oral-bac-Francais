@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-03-30T23:24:50.414+02:00
-edited_seconds: 100
+updated_at: 2025-03-31T18:48:07.184+02:00
+edited_seconds: 170
 ---
 PERDICAN, *à haute voix, de manière que Camille l’entende.*
 Je t’aime, Rosette ; <font color="#e36c09">toi seule</font> <span style="background:#fdbfff">au monde</span> tu n’as rien oublié de <u>nos beaux jours passés</u> ; <font color="#e36c09">toi seule</font> tu te souviens de <u>la vie qui n’est plus</u> ; <span style="background:#ff4d4f">prends</span> ta part de ma vie nouvelle ; <span style="background:#ff4d4f">donne</span>-moi ton <span style="background:#b1ffff">cœur</span>, <span style="background:#b1ffff">chère</span> enfant ; voilà le <span style="background:#40a9ff">gage</span> de notre <span style="background:#b1ffff">amour</span>. *Il lui pose sa chaîne sur le cou.* 
@@ -19,10 +19,10 @@ Il a jeté ma bague dans l’eau.
 <hr>
 
 PERDICAN
-Sais-tu ce que c’est que l’amour, Rosette ? Écoute ! Le vent se tait ; la pluie du matin roule en perles sur les feuilles séchées que le soleil ranime. Par la lumière du ciel, par le soleil que voilà, je t’aime ! Tu veux bien de moi, n’est-ce pas ? On n’a pas flétri ta jeunesse ? On n’a pas infiltré dans ton sang vermeil les restes d’un sang affadi ? Tu ne veux pas te faire religieuse ; te voilà jeune et belle dans les bras d’un jeune homme. Ô Rosette, Rosette, sais-tu ce que c’est que l’amour ? 
+Sais-tu ce que c’est que l’amour, Rosette ? <u>Écoute</u> ! <span style="background:#d3f8b6">Le vent</span> se tait ; <span style="background:#d3f8b6">la pluie</span> du matin roule en perles sur les <span style="background:#d3f8b6">feuilles séchées</span> que le <span style="background:#d3f8b6">soleil</span> ranime. Par la lumière du ciel, par le soleil que voilà, je t’aime ! Tu veux bien de moi, n’est-ce pas ? On n’a pas flétri ta jeunesse ? On n’a pas <span style="background:#b1ffff">infiltré</span> dans ton <span style="background:rgba(240, 107, 5, 0.2)">sang vermeil les restes d’un sang affadi</span> ? Tu ne veux pas te faire religieuse ; te voilà jeune et belle dans les bras d’un jeune homme. Ô Rosette, Rosette, sais-tu ce que c’est que l’amour ? <u></u>
 
 ROSETTE
-Hélas ! monsieur le docteur, je vous aimerai comme je pourrai. 
+Hélas ! monsieur le <span style="background:rgba(240, 200, 0, 0.2)">docteur</span>, je vous aimerai <span style="background:rgba(240, 200, 0, 0.2)">comme je pourrai</span>. 
 
 PERDICAN
-Oui, comme tu pourras ; et tu m’aimeras mieux, tout docteur que je suis et toute paysanne que tu es, que ces pâles statues fabriquées par les nonnes, qui ont la tête à la place du cœur, et qui sortent des cloîtres pour venir répandre dans la vie l’atmosphère humide de leurs cellules ; […]
+Oui, <span style="background:rgba(240, 200, 0, 0.2)">comme tu pourras</span> ; et tu m’aimeras mieux, <font color="#c00000">tout</font> <u><span style="background:rgba(240, 200, 0, 0.2)">docteur</span></u> que je suis et <font color="#c00000">toute</font> <u>paysanne</u> que tu es, que ces pâles statues fabriquées par les <span style="background:rgba(140, 140, 140, 0.12)">nonnes</span>, qui ont la tête à la place du cœur, et qui sortent des <span style="background:rgba(140, 140, 140, 0.12)">cloîtres</span> pour venir répandre dans la vie l’atmosphère humide de leurs <span style="background:rgba(140, 140, 140, 0.12)">cellules</span> ; […]

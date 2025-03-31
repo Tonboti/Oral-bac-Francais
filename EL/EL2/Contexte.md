@@ -1,3 +1,7 @@
+---
+updated_at: 2025-03-31T18:20:27.428+02:00
+edited_seconds: 10
+---
 ### Présentation
 - On ne badine pas avec l'amour, écrite en 1834 par Alfred de Musset, n'est pas destinée a être représentée sur scène.
 - <u>Contexte</u> : Le baron a fait venir son fils Perdican et sa nièce Camille a son château pour les marier
