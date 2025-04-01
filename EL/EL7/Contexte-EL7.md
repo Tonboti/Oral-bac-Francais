@@ -1,3 +1,6 @@
+---
+updated_at: 2025-04-01T16:33:35.374+02:00
+---
 ### Présentation
 ###### Oeuvre
 - Auteur : Olympe de Gouges
