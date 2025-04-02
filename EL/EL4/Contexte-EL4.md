@@ -1,10 +1,10 @@
 ---
-updated_at: 2025-03-31T19:49:50.794+02:00
-edited_seconds: 550
+updated_at: 2025-04-02T15:40:33.428+02:00
+edited_seconds: 570
 ---
 ### Présentation
 ###### L'œuvre 
-- *La réunification des deux Corées*, pièce écrite & mise en scene par Joel Pommerat en 2013
+- *La réunification des deux Corées*, pièce écrite & mise en scène par Joel Pommerat en 2013
 - constituée de 20 microfictions théâtrales centrées sur le thème du couple. 
 - sujets du désir, indifférence, attachement, séparation
 - "Deux Corées" = métaphore du couple
@@ -18,10 +18,8 @@ edited_seconds: 550
 - **Lignes 7-18** : Antoine arrive et l'échange redevient poli & codifie 
 - **Lignes 19-fin** : 2e brèche : Marianne s'agrippe a la manche du médecin, ce que le médecin et l'homme ignorent
 	- violence : 1-ils l'ignorent , 2-ils essayent de la détacher de la manche du médecin  
-
 ### Problématique
 **Comment Pommerat parvient-il a mettre en évidence l'_écart entre ce que disent les corps et ce que disent les mots_**?
-
 ### Conclusion  
 ###### *Bilan*
 Personnage de Marianne dans tous ses états:
