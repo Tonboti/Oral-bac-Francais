@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-03T18:15:06.339+02:00
-edited_seconds: 500
+updated_at: 2025-04-03T19:35:11.589+02:00
+edited_seconds: 530
 ---
 ### Repos avec mes EL de Français, faites en ce que vous voulez.
 
@@ -8,11 +8,10 @@ edited_seconds: 500
 >Je l'ai fait avec Obsidian, si vous voulez l'ouvrir dans [Obsidian](https://obsidian.md/) il faut cloner le repos et 
 >ensuite le definir en tant que vault Obsidian (sinon les canvas ne marcheront pas)
 
-
->[!note] Progres :     ![](https://geps.dev/progress/68)
+>[!note] Progres :     ![](https://geps.dev/progress/72)
 > - Pour l'instant j'ai retranscris le cours de 7,5/11 EL
 > 	- *On ne badine pas avec l'amour* : 4/4
-> 	- *DDFC* : 3,5/4 (la 6 a finir)
+> 	- *DDFC* : 4/4 
 > 	- *La peau de chagrin* : 0/4
 > 
 > - j'essayerai de rajouter les méthodes pour l'oral et la grammaire etc. si j'aurais le temps
