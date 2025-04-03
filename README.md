@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-02T21:46:06.513+02:00
-edited_seconds: 430
+updated_at: 2025-04-03T18:03:36.051+02:00
+edited_seconds: 440
 ---
 ### Repos avec mes EL de Français, faites en ce que vous voulez.
 
@@ -10,9 +10,9 @@ edited_seconds: 430
 
 
 >[!note]
-> - Pour l'instant j'ai retranscris le cours de 7,16/11 EL
+> - Pour l'instant j'ai retranscris le cours de 7,5/11 EL
 > 	- *On ne badine pas avec l'amour* : 4/4
-> 	- *DDFC* : 3,16/4 (la 6 et la 8 a finir)
+> 	- *DDFC* : 3,5/4 (la 6 a finir)
 > 	- *La peau de chagrin* : 0/4
 > - j'essayerai de rajouter les méthodes pour l'oral et la grammaire etc. si j'aurais le temps
 

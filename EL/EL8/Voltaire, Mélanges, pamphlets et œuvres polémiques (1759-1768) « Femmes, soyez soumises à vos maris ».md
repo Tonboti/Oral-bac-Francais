@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-02T21:38:49.549+02:00
-edited_seconds: 220
+updated_at: 2025-04-03T17:58:39.210+02:00
+edited_seconds: 310
 ---
 1. [...] et pourquoi soumises, s’il vous plaît ? 
 2. Quand j’épousai M. de Grancey, nous nous promîmes d’être fidèles : <font color="#9bbb59">je n’ai</font> pas trop gardé ma parole, <font color="#9bbb59">ni lui</font> la sienne ; mais <font color="#9bbb59">ni lui ni moi</font> ne promîmes d’obéir. 
@@ -15,7 +15,10 @@ edited_seconds: 220
 
 <hr>
 
-Ils prétendent avoir aussi la tête mieux organisée, et, en conséquence, ils se vantent d’être plus capables de gouverner ; mais je leur montrerai des reines qui valent bien des rois. On me parlait ces jours passés d’une princesse allemande<sup>3</sup> qui se lève à cinq heures du matin pour travailler à rendre ses sujets heureux, qui dirige toutes les affaires, répond à toutes les lettres, encourage tous les arts, et qui répand autant de bienfaits qu’elle a de lumières. Son courage égale ses connaissances ; aussi n’a-t-elle pas été élevée dans un couvent par des imbéciles qui nous apprennent ce qu’il faut ignorer, et qui nous laissent ignorer ce qu’il faut apprendre. Pour moi, si j’avais un État à gouverner, je me sens capable d’oser suivre ce modèle.
+1. Ils <font color="#f79646">prétendent</font> avoir aussi la tête mieux organisée, et, en conséquence, ils se <font color="#f79646">vantent</font> d’être plus capables de gouverner ; mais je leur montrerai des reines qui <font color="#f79646">valent</font> bien des rois. 
+2. On me parlait ces jours passés d’une princesse allemande<sup>3</sup> <u>qui <font color="#4bacc6">se lève à cinq heures du matin</font> pour <font color="#4bacc6">travailler</font> à <font color="#9bbb59">rendre ses sujets heureux</font>, qui dirige toutes les affaires, <font color="#4bacc6">répond à toutes les lettres</font>, <font color="#9bbb59">encourage tous les</font> <font color="#8064a2">arts</font>, et qui <font color="#9bbb59">répand autant de bienfaits</font> qu’elle a de <font color="#c0504d">lumières</font></u>. 
+3. Son courage égale ses connaissances ; aussi n’a-t-elle pas ét<u></u>é élevée dans un couvent par des imbéciles qui nous <span style="background:rgba(240, 107, 5, 0.2)">apprennent ce qu’il faut <u>ignorer</u></span>, et qui nous laissent <span style="background:rgba(240, 107, 5, 0.2)"><u>ignorer</u> ce qu’il faut apprendre</span>. 
+4. Pour moi, si j’avais un État à gouverner, je me sens capable d’oser suivre ce modèle.
 
 <hr>
 
