@@ -1,5 +1,5 @@
 ---
-updated_at: 2025-04-03T19:36:59.730+02:00
+updated_at: 2025-04-03T19:38:08.067+02:00
 edited_seconds: 550
 ---
 ### Repos avec mes EL de Français, faites en ce que vous voulez.
@@ -10,7 +10,7 @@ edited_seconds: 550
 
 >[!note] 
 >Progrès :     ![](https://geps.dev/progress/72)
-> - Pour l'instant j'ai retranscris le cours de 7,5/11 EL
+> - Pour l'instant j'ai retranscris le cours de 8/11 EL
 > 	- *On ne badine pas avec l'amour* : 4/4
 > 	- *DDFC* : 4/4 
 > 	- *La peau de chagrin* : 0/4
