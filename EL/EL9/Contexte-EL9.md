@@ -16,7 +16,7 @@ edited_seconds: 350
 - **Lignes 1-12** : **dialogue**, le vieillard **met en garde** Raphael qui est très tente par la peau
 - **Lignes 12-20** : **leçon** du vieillard, il dissuade Raphael de prendre la peau 
 ### Problématique
-**En quoi ce texte déclenche-t-il la mise a mort de Raphael et annonce donc le dénouement du roman?
+**En quoi ce texte déclenche-t-il la mise a mort de Raphael et annonce donc le dénouement du roman?**
 
 ### Conclusion 
 ###### *Bilan*

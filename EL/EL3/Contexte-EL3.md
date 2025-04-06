@@ -16,7 +16,7 @@ edited_seconds: 470
 - **Lignes 14-28** : bonheur trouble par le cri de rosette => inquiétude croissante chez les persos & le lecteur 
 
 ### Problématique
-**En quoi peut-on dire que Musset propose ici _deux dénouements successifs?
+**En quoi peut-on dire que Musset propose ici _deux dénouements successifs?_**
 
 ### Conclusion 
 ###### *Bilan*

@@ -6,8 +6,7 @@ edited_seconds: 480
 - "que j'ai la générosité..."
 - <font color="#f79646">hyperbole</font> + périphrase
 	- Bienfaisance & équité = DDFC
-##### l14
-Saynète de comédie : 2 persos (le cocher ne parle pas)
+##### l14 - Saynète de comédie : 2 persos (le cocher ne parle pas)
 ###### => OdG <font color="#4bacc6">se caractérise par </font>
 - sa connaissance de la loi => PARADOXE
 - sa fermeté => "Je m'y refuse"

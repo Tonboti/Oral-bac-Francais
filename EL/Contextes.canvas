@@ -1,16 +1,23 @@
 {
 	"nodes":[
-		{"id":"c5a5dc653a299d41","type":"file","file":"EL/EL4/Contexte-EL4.md","x":393,"y":-3760,"width":693,"height":1128},
 		{"id":"08df1f80c2590ff0","type":"file","file":"EL/EL3/Contexte-EL3.md","x":-515,"y":-3760,"width":693,"height":1128},
-		{"id":"7c04672c3611f765","type":"file","file":"EL/EL5/Contexte-EL5.md","x":1271,"y":-3195,"width":693,"height":1128},
-		{"id":"89be1b98c14694fa","type":"file","file":"EL/EL7/Contexte-EL7.md","x":1965,"y":-867,"width":693,"height":1128},
-		{"id":"c2adc233ff783665","type":"file","file":"EL/EL9/Contexte-EL9.md","x":47,"y":-2067,"width":693,"height":1128},
+		{"id":"c2adc233ff783665","type":"file","file":"EL/EL9/Contexte-EL9.md","x":0,"y":-2067,"width":740,"height":1128},
 		{"id":"2d0e038278a779be","type":"file","file":"EL/EL10/Contexte-EL10.md","x":-911,"y":-1760,"width":693,"height":1128},
-		{"id":"6113120d7180ebc9","type":"file","file":"EL/EL11/Contexte-EL11.md","x":-1711,"y":-939,"width":693,"height":1128},
 		{"id":"e79299b10560555d","type":"file","file":"EL/EL8/Contexte-EL8.md","x":1086,"y":-1760,"width":693,"height":1128},
-		{"id":"8e007a12af423308","type":"file","file":"EL/EL2/Contexte-EL2.md","x":-1364,"y":-3040,"width":693,"height":1128},
-		{"id":"fb943db8ae110b54","type":"file","file":"EL/EL1/Contexte-EL1.md","x":-2240,"y":-2200,"width":693,"height":1128},
-		{"id":"457526e149420335","type":"file","file":"EL/EL6/Contexte-EL6.md","x":2160,"y":-2180,"width":693,"height":1128}
+		{"id":"457526e149420335","type":"file","file":"EL/EL6/Contexte-EL6.md","x":2160,"y":-2180,"width":693,"height":1128},
+		{"id":"ff697d13cb201d4f","type":"file","file":"EL/EL1/On ne badine pas avec l’amour (1834), acte II, scène 3.md","x":-3360,"y":-2740,"width":740,"height":1243},
+		{"id":"fb943db8ae110b54","type":"file","file":"EL/EL1/Contexte-EL1.md","x":-2300,"y":-2324,"width":693,"height":1128},
+		{"id":"1f568d14ab4ffd8c","type":"file","file":"EL/EL2/On ne badine pas avec l’amour (1834), acte III, scène 3.md","x":-2280,"y":-3960,"width":695,"height":1140},
+		{"id":"8e007a12af423308","type":"file","file":"EL/EL2/Contexte-EL2.md","x":-1460,"y":-3060,"width":693,"height":1128},
+		{"id":"b10f814a74c5e9ea","type":"file","file":"EL/EL3/On ne badine pas avec l’amour (1834), acte III, scène 8.md","x":-1320,"y":-4760,"width":720,"height":1198},
+		{"id":"392e0e1ac2a7b915","x":240,"y":-4680,"width":576,"height":832,"type":"file","file":"EL/EL4/Joël Pommerat, La réunification des deux Corées, 2013.md"},
+		{"id":"c5a5dc653a299d41","type":"file","file":"EL/EL4/Contexte-EL4.md","x":360,"y":-3740,"width":693,"height":1128},
+		{"id":"75b64b46631603af","x":1965,"y":-3863,"width":582,"height":823,"type":"file","file":"EL/EL5/Exhortation aux hommes Déclaration des droits de la femme et de la citoyenne d’O. de Gouges (1791).md"},
+		{"id":"93d6d62ef3dfb017","x":3040,"y":-3040,"width":724,"height":1084,"type":"file","file":"EL/EL6/Début du postambule Déclaration des droits de la femme et de la citoyenne d’O. de Gouges (1791).md"},
+		{"id":"03dd0a62a00a6331","x":2853,"y":-792,"width":622,"height":978,"type":"file","file":"EL/EL7/Extrait de « Forme du contrat… » Déclaration des droits de la femme et de la citoyenne d’O. de Gouges (1791).md"},
+		{"id":"7c04672c3611f765","type":"file","file":"EL/EL5/Contexte-EL5.md","x":1200,"y":-3308,"width":693,"height":1128},
+		{"id":"89be1b98c14694fa","type":"file","file":"EL/EL7/Contexte-EL7.md","x":2040,"y":-867,"width":693,"height":1128},
+		{"id":"6113120d7180ebc9","type":"file","file":"EL/EL11/Contexte-EL11.md","x":-1720,"y":-940,"width":693,"height":1128}
 	],
 	"edges":[
 		{"id":"53b58021048730b6","fromNode":"fb943db8ae110b54","fromSide":"top","toNode":"8e007a12af423308","toSide":"left"},
@@ -23,6 +30,10 @@
 		{"id":"bc336c6706d3e2a5","fromNode":"c2adc233ff783665","fromSide":"left","toNode":"2d0e038278a779be","toSide":"right"},
 		{"id":"0e6a5359640b4d0a","fromNode":"e79299b10560555d","fromSide":"left","toNode":"c2adc233ff783665","toSide":"right"},
 		{"id":"e538fc36c5b7e960","fromNode":"89be1b98c14694fa","fromSide":"left","toNode":"e79299b10560555d","toSide":"right"},
-		{"id":"6bcf2218d4270eba","fromNode":"457526e149420335","fromSide":"bottom","toNode":"89be1b98c14694fa","toSide":"top"}
+		{"id":"6bcf2218d4270eba","fromNode":"457526e149420335","fromSide":"bottom","toNode":"89be1b98c14694fa","toSide":"top"},
+		{"id":"a37f11a7c58c4a44","fromNode":"ff697d13cb201d4f","fromSide":"right","toNode":"fb943db8ae110b54","toSide":"left"},
+		{"id":"2e97ad1b6c423b0b","fromNode":"1f568d14ab4ffd8c","fromSide":"right","toNode":"8e007a12af423308","toSide":"top"},
+		{"id":"f9661c1e872ee8ea","fromNode":"b10f814a74c5e9ea","fromSide":"right","toNode":"08df1f80c2590ff0","toSide":"top"},
+		{"id":"07752c5733093c25","fromNode":"392e0e1ac2a7b915","fromSide":"bottom","toNode":"c5a5dc653a299d41","toSide":"top"}
 	]
 }
