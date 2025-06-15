@@ -1,4 +1,4 @@
-### Repos avec mes EL de Français, faites en ce que vous voulez.
+### Repos avec mes EL de Français, en esperant que ca aide certains.
 
 > [!tip] 
 >Je l'ai fait avec Obsidian, si vous voulez l'ouvrir dans [Obsidian](https://obsidian.md/) il faut cloner le repos et 
@@ -13,9 +13,9 @@
 
 
 © 2025 by <a href="https://github.com/Tonboti">Ivan Rafalskyi (Tonboti@GitHub)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
-<span style="display:flex; gap: .2em; height:1em">
-    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 100%;max-height:100%;margin-left: .2em;">
-    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 100%;max-height:100%;margin-left: .2em;">
-    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 100%;max-height:100%;margin-left: .2em;">
-    <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 100%;max-height:100%;margin-left: .2em;">
+<span display="flex" gap="10em">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" height="20em">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" height="20em">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" height="20em">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" height="20em">
 <span>
