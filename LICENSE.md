@@ -1,5 +1,5 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International
+
+## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -348,3 +348,23 @@ licensed material. For the avoidance of doubt, this paragraph does not
 form part of the public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+### No-AI clause
+Copyright and Related Rights
+The laws of most jurisdictions automatically confer exclusive Copyright and Related Rights upon the creator ("Affirmer") of this Work. The Affirmer voluntarily applies these additional restrictions to promote free cultural works while preventing misuse in AI training.
+
+Waiver with AI Exception
+To the greatest extent permitted by law, the Affirmer waives all Copyright and Related Rights for any purpose except:
+- Training or improving machine learning models, including but not limited to:
+    - Artificial intelligence (AI) and large language models (LLMs).
+    - Natural language processing (NLP) or data mining systems.
+    - Inclusion in AI training datasets (e.g., datasets used to train models like ChatGPT, Gemini, or LLaMA).
+_Any such use requires explicit written permission from the Affirmer._
+
+- Legal Enforcement
+    - Violations of this NON-AI clause will result in termination of rights under both this clause and the CC BY-NC-ND 4.0 license.
+    - The Affirmer reserves the right to pursue legal action for unauthorized AI use, including damages.
+
+- Compatibility with CC BY-NC-ND
+    This clause does not modify the core terms of CC BY-NC-ND (attribution, non-commercial use, no derivatives).
+    If any part of this clause is deemed unenforceable, the remainder of the license remains valid.
