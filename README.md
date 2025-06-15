@@ -1,7 +1,3 @@
----
-updated_at: 2025-04-05T18:19:04.870+02:00
-edited_seconds: 610
----
 ### Repos avec mes EL de Français, faites en ce que vous voulez.
 
 > [!tip] 
@@ -16,5 +12,9 @@ edited_seconds: 610
 >Si vous voulez l'utiliser sur telephone vous pouvez utiliser l'application [Git Sync](https://play.google.com/store/apps/details?id=com.viscouspot.gitsync&hl=fr&pli=1) pour cloner le repos et l'utiliser avec Obsidian 
 
 
-© 2025 by <a href="https://github.com/Tonboti">Ivan Rafalskyi (Tonboti@GitHub)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+© 2025 by <a href="https://github.com/Tonboti">Ivan Rafalskyi (Tonboti@GitHub)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
