@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-04T19:38:52.014+02:00
-edited_seconds: 440
+updated_at: 2025-06-15T19:15:03.233+02:00
+edited_seconds: 450
 ---
 1. — Est-ce une <font color="#f79646">plaisanterie</font>, est-ce un <font color="#f79646">mystère</font> ? demanda le jeune <font color="#f79646">inconnu</font>. 
 2. Le vieillard hocha de la tête et dit gravement : — Je ne saurais vous répondre. J’ai offert le <font color="#4bacc6">terrible pouvoir</font> que donne ce talisman à <font color="#8064a2">des hommes doués de plus d’énergie que vous ne paraissiez en avoir</font> ; mais, tout en se moquant de la problématique <font color="#4bacc6">influence</font> qu’il devait exercer sur leurs destinées futures, aucun n’a voulu <font color="#8064a2">se risquer</font> à conclure ce <font color="#8064a2">contrat</font> si <font color="#4bacc6">fatalement</font> proposé par <font color="#4bacc6">je ne sais quelle puissance</font>. Je pense comme eux, <font color="#4bacc6">j’ai douté</font>, je me suis abstenu, et… 
@@ -13,7 +13,7 @@ edited_seconds: 440
 	3. L’homme a-t-il jamais pu scinder la mort ? 
 	4. Avant d’entrer dans ce cabinet, vous aviez résolu de vous suicider ; mais tout à coup un secret vous occupe et vous <u>distrait</u> de mourir. Enfant ! Chacun de vos jours ne vous offrira-t-il pas une énigme plus intéressante que ne l’est celle-ci ? 
 
-<hr>
+- - -
 
 1. Écoutez-moi. J’ai vu la cour licencieuse du régent<sup>1</sup>.
 2. Comme vous, j’étais alors dans la misère, j’ai mendié mon pain ; néanmoins j’ai atteint l’âge de cent deux ans, et suis devenu <font color="#f79646">millionnaire</font> : <font color="#f79646">le malheur m’a donné la fortune</font>, l’<font color="#f79646">ignorance m’a instruit</font>. 

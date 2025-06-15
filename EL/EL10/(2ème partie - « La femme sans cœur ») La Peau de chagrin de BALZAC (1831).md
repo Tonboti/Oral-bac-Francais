@@ -7,7 +7,7 @@ edited_seconds: 310
 3. <u>Ne vous ai-je pas <font color="#c0504d">loyalement prévenu</font> de mon caractère ? Pourquoi ne vous êtes-vous pas contenté de mon <font color="#c0504d">amitié</font> ?</u> 
 4. Je voudrais pouvoir <span style="background:rgba(5, 117, 197, 0.2)">consoler</span> les peines que je vous ai causées en ne devinant pas le compte de vos <span style="background:rgba(240, 107, 5, 0.2)">petits écus</span>, j'<span style="background:rgba(5, 117, 197, 0.2)">apprécie</span> l'étendue de vos <span style="background:rgba(240, 200, 0, 0.2)">sacrifices</span> ; mais l'<span style="background:rgba(240, 107, 5, 0.2)">amour</span> peut seul <span style="background:rgba(240, 107, 5, 0.2)">payer</span> <span style="background:rgba(240, 200, 0, 0.2)">votre dévouement, vos délicatesses</span>, et je vous aime<u> si peu, que</u> cette scène m'affecte désagréablement. 
 
-<hr>
+- - -
 
 1. -Je sens combien je suis ridicule, pardonnez-moi, lui dis-je avec <font color="#f79646">douceur</font> sans pouvoir retenir mes <font color="#c0504d">larmes</font>. Je vous <font color="#f79646">aime</font> assez, repris-je, pour écouter avec<u> <font color="#f79646">délices</font> les <font color="#c0504d">cruelles</font> </u>paroles que vous prononcez. Oh ! <u>je voudrais pouvoir signer mon <font color="#f79646">amour</font> de tout mon sang</u>. 
 
