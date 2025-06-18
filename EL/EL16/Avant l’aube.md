@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-06-03T20:51:19.073+02:00
-edited_seconds: 520
+updated_at: 2025-06-18T11:27:50.878+02:00
+edited_seconds: 540
 ---
 Dans la forêt du temps
 il <span style="background:rgba(240, 200, 0, 0.2)">n</span>’y avait <font color="#f79646">rien</font>
@@ -25,8 +25,8 @@ est venu <font color="#9bbb59">le ciel pour la couvrir</font>
 
 sont venus les dieux qui <font color="#4bacc6">flottent</font>
 au-dessus des <font color="#4bacc6">eaux</font>
-Hésiode$^1$ ᅠᅠZeus$^2$ᅠᅠOdin$^2$
-Brahma$^2$ ᅠᅠIzanami$^2$
+Hésiode¹ ᅠᅠZeus²ᅠᅠOdin²
+Brahma² ᅠᅠIzanami²
 avec eux sont venus <font color="#9bbb59">l’air</font> et la<font color="#c0504d"> lumière</font>
 <font color="#4bacc6">l’algue</font> et l’arête du monde 
 

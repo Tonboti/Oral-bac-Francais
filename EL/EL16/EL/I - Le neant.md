@@ -1,13 +1,14 @@
 ---
-updated_at: 2025-06-03T20:42:43.723+02:00
-edited_seconds: 690
+updated_at: 2025-06-17T19:41:49.628+02:00
+edited_seconds: 730
 ---
 Titre : Avant l'aube
 =neant = avant la creation
 -> annonce du theme : le chaos originel
 
 *De fait, les 8 1ers vers sont centres sur un univers de neant, de vide des origines*
-#### *Ce vide est mis en evidence par...*
+
+### *Ce vide est mis en evidence par...*
 - Le <font color="#f79646">champ lexical du vide</font> (vide x1 + rien x2)
 - Les <span style="background:rgba(240, 200, 0, 0.2)">negations</span> 
 	- 6x "ni"

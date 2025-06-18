@@ -1,3 +1,7 @@
+---
+updated_at: 2025-06-17T13:19:12.468+02:00
+edited_seconds: 60
+---
 *Perdican se comporte avec Rosette comme il le ferait avec Camille, ce qui met mal a l'aise Rosette*
 
 <u>l1 - didascalie</u>
@@ -13,7 +17,7 @@
 		- += litote (*il lui fait du mal*) 
 	- P tutoie R , mais R vouvoie P 
 		- Domination
-	- P embrasse R sans consentement
+	- P embrasse R sans consentline.strip().startswith("---"): ement
 		- didascalie interne "tous ces baisers"
 		- ces = connotation péjorative
 	- Proposition de faire 1 tour de promenade
@@ -49,5 +53,5 @@
 2. pour ne pas s'appesantir sur un sujet gênant
 3. car il ne l'écoute pas
 
-<u>Bilan</u>
+<ins>Bilan</ins>
 Cette partie **met en place** le **contraste social** entre P et R et aussi l'**assimilation** par P entre C et R. A partir de la l10, le texte met en évidence la tristesse de Perdican 

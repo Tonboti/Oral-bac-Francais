@@ -1,3 +1,7 @@
+---
+updated_at: 2025-06-17T13:11:28.116+02:00
+edited_seconds: 10
+---
 _Perdican perd le contrôle. Il embrasse Rosette sur les lèvres, pleure puis s'excuse. => Il a pris Rosette pour Camille mais a la fin s'est rendu compte que non_
 
 <u>Réplique de P</u>
@@ -5,7 +9,7 @@ _Perdican perd le contrôle. Il embrasse Rosette sur les lèvres, pleure puis s'
 	- poursuite du langage de la **séduction**
 - <font color="#e36c09">Anaphore</font> empathique 
 - mention des lèvres = sensualité
-- + didascalie "*Il l'embrasse*" (sur les lèvres) = geste déplacé 
+- +didascalie "*Il l'embrasse*" (sur les lèvres) = geste déplacé 
 
 <u>Réplique de R</u>
 - <span style="background:#fdbfff">Parallélisme</span> "sourire" // "lèvres "

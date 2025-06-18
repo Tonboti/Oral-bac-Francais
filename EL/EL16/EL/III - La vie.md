@@ -1,12 +1,13 @@
 ---
-updated_at: 2025-06-03T20:50:52.800+02:00
-edited_seconds: 600
+updated_at: 2025-06-18T00:10:55.912+02:00
+edited_seconds: 710
 ---
 *La vie se manifeste des le début de l'extrait avec le vers **"il y eut la vie"** mais, elle se manifeste aussi par plusieurs éléments dans la suite de l'extrait* 
 ##### Par la <font color="#d83931">CHALEUR</font>
 - "Rayonnement chaud" = Soleil
 - "magma" = centre de la terre
 - - -
+
 ##### Par le <font color="#ffc000">MOUVEMENT</font>
 - "expansion" 
 	- avec la dierese "ex-pan-si-on" 4 syllabes ->  mime l'expansion
@@ -16,7 +17,7 @@ edited_seconds: 600
 - - -
 ##### Par l'apparition du <font color="#92d050">TEMPS / CYCLES DE TEMPS</font>
 
->[!example] Cf. les 2 derniers vers
+>[!note] Cf. les 2 derniers vers
 >- l'aiguille = l'aiguille d'une horloge 
 >	- "aiguille" = horloge = Cronos ,
 >	- "mince couche de bleu" = ciel = Ouranos
