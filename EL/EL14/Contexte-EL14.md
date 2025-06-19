@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-06-18T12:00:05.112+02:00
-edited_seconds: 560
+updated_at: 2025-06-19T19:31:44.832+02:00
+edited_seconds: 570
 ---
 ### Présentation et situation
 <u>Oeuvre</u>
@@ -12,9 +12,9 @@ _Ce "Livre de poèmes" , désignation qu'elle préfère au terme habituel de "re
 <u>Extrait</u>
 Ce poème est le 3e poème commençant par “Mes forets sont… ”, il se situe entre la 2e section (“Une chute de galets”) et la 3e section (“L’onde du chaos”). Il comporte 6 strophes composées de vers libres.
 ### Lecture
-=> faire des pauses pendant les silences
-=> On peut imaginer des points a la fin des vers 5, 9, 16, 19 et après le “voir” du vers 13
-=> pas besoin de prononcer les “-e” muets
+- faire des pauses pendant les silences
+- On peut imaginer des points a la fin des vers 5, 9, 16, 19 et après le “voir” du vers 13
+- pas besoin de prononcer les “-e” muets
 ### Problématique
 _Comment HD, au fur et a mesure des métaphores, invite-t-elle les Hommes a prendre conscience de l’importance des forets?_ 
 ### Mouvements du texte 

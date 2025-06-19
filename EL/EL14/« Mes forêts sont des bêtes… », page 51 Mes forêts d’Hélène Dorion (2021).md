@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-06-18T15:08:20.634+02:00
-edited_seconds: 280
+updated_at: 2025-06-18T14:43:09.323+02:00
+edited_seconds: 270
 ---
 _Mes forêts sont_ des bêtes qui attendent la <font color="#c0504d">nuit</font>
 pour lécher le <font color="#c0504d">sang</font> de leurs <font color="#4bacc6">rêves</font>

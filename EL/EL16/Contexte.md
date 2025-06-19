@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-06-17T18:01:45.523+02:00
-edited_seconds: 580
+updated_at: 2025-06-19T19:31:55.707+02:00
+edited_seconds: 590
 ---
 ### Présentation et situation
 <u>Oeuvre</u>
@@ -14,9 +14,9 @@ Le poème est issu de la 3e section ("L'onde du chaos").
 C'est un poème d'amour adressé a un "tu" a qui HD révèle avec pudeur la puissance de son désir. 
 Il comporte quatre strophes composées de vers libres   
 ### Lecture
-=> faire des pauses pendant les silences
-=> On peut imaginer des points a la fin des vers 3, 7, 9, 19 et 23
-=> On peut écouter HD le lire
+- faire des pauses pendant les silences
+- On peut imaginer des points a la fin des vers 3, 7, 9, 19 et 23
+- On peut écouter HD le lire
 ### Problématique
 *Comment HD exprime-t-elle l'attirance qu'elle éprouve pour l'être aimé*
 ### Mouvements du texte 

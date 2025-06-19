@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-06-18T17:14:44.289+02:00
-edited_seconds: 810
+updated_at: 2025-06-18T17:20:15.653+02:00
+edited_seconds: 980
 ---
 ### Présentation
 ###### Œuvre
@@ -25,6 +25,6 @@ Dans un projet de préface, il explique que son but est “d’extraire la beaut
 ###### *Bilan*
 Baudelaire évoque dans ce sonnet 2 types de correspondances (horizontales et verticales):
 - d’une part, celles qui existent entre divers sens – les **synesthésies**. Le poète traduit ces liens par des métaphores qui mêlent les parfums, les sons, le gout et la vue. 
-- d’autre part, celles qui existent entre **la nature et le monde de l’esprit, de la spiritualité 
+- d’autre part, celles qui existent entre **la nature et le monde de l’esprit, de la spiritualité** : ces correspondances sont difficiles a percevoir mais le poète tente de déchiffrer les “confuses paroles”, les “symboles”, les signes que la Nature envoie et qui permettent d’accéder aux “choses infinies”
 ###### *Ouverture*
-=> **tournant dans la vie** du héros : quitte l'hôtel St Quentin et suit Rastignac dans la débauche (ce qui le conduit ensuite a accepter la PdC)
+Helene Dorion, elle aussi, cherche a percer les mystères de la nature mais cela la conduit vers elle-même : l’expérience de la foret lui permet de mieux se connaitre 
